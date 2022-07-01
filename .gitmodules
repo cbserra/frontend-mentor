@@ -1,0 +1,3 @@
+[submodule "product-preview"]
+	path = product-preview
+	url = git@github.com:cbserra/product-preview.git
